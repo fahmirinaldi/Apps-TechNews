@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TermsActivity"
+    android:background="@drawable/bg">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="10dp"
+        android:textAlignment="gravity"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp">
+        <TextView
+            android:text="@string/hak_milik"
+            style="@style/TextContent.Subtitle"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_marginBottom="16dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:text="@string/hak"
+            style="@style/TextContent"
+            android:layout_marginBottom="16dp"
+            android:lineSpacingMultiplier="1"
+            android:textColor="@color/colorPrimaryDark"/>
+        <TextView
+            android:text="@string/lisensi_pengunjung"
+            style="@style/TextContent.Subtitle"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_marginBottom="16dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:text="Anda diperkenankan untuk menggunakan Apps TechNews dan konten yang ditawarkan Apps TechNews hanya untuk keperluan pribadi, bukan tujuan komersial. Anda dapat menggunakan konten yang diperbolehkan untuk diunggah, seperti foto dan video, untuk keperluan pribadi dan sesuai peraturan pada konten yang dimaksud."
+            style="@style/TextContent"
+            android:layout_marginBottom="16dp"
+            android:lineSpacingMultiplier="1"
+            android:textColor="@color/colorPrimaryDark"/>
+    </LinearLayout>
+</ScrollView>

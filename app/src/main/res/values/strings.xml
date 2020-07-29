@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">TechNews</string>
+    <string name="TechNews">TechNews</string>
+    <string name="name_develop">Android Developer | By Fahmi Rinaldi</string>
+
+    <string-array name="nama_hp">
+        <item>Xiaomi Redmi Note 8 Pro 6/128</item>
+        <item>Xiaomi Redmi Note 7 4/64</item>
+        <item>Samsung Galaxy A51 6/128</item>
+        <item>Samsung Galaxy A50 6/128</item>
+        <item>Samsung Galaxy S20 Plus 8/128</item>
+        <item>Apple Iphone 11 Pro Max 64GB</item>
+        <item>Apple Iphone XS Max 512GB</item>
+        <item>Apple Iphone XR 256GB</item>
+        <item>Asus Zenfone 6 ZS630KL 6/128</item>
+        <item>Oppo Find X 8/512</item>
+        <item>Vivo Z1 Pro 6/128</item>
+        <item>Vivo V19 8/128</item>
+        <item>Huawei Nova 5T 8/128</item>
+    </string-array>
+    <string-array name="harga_hp">
+        <item>Rp 3.100.000</item>
+        <item>Rp 2.600.000</item>
+        <item>Rp 4.130.000</item>
+        <item>Rp 3.245.000</item>
+        <item>Rp 7.920.000</item>
+        <item>Rp 18.100.000</item>
+        <item>Rp 11.000.000</item>
+        <item>Rp 10.000.000</item>
+        <item>Rp 13.000.000</item>
+        <item>Rp 7.400.000</item>
+        <item>Rp 24.000.000</item>
+        <item>Rp 3.100.000</item>
+        <item>Rp 3.700.000</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Xiaomi telah merilis sejumlah produk baru dari lini Redmi untuk kelas menengah ke atas yakni Redmi Note 8 Pro, Redmi Note 8, dan Redmi Note 8T. Umumnya, setiap vendor memproduksi smartphone dengan spesifikasi berbeda meski memiliki nama tipe yang hampir mirip. Hal ini bertujuan untuk memberikan beragam pilihan bagi para konsumen.</item>
+        <item>Pada varian dream blue yang Gizmin dapatkan, Redmi Note 7 memang terbilang keren dan kekinian. Hanya saja, permukaan reflektif yang memberikan efek gradasi pada bodi belakang smartphone ini sudah terlalu banyak diadopsi smartphone lain. Bisa dibilang konsep desainnya sudah usang.</item>
+        <item>Samsung menjadi salah satu brand smartphone ternama dunia yang telah banyak meluncurkan berbagai jenis produk smartphone. Nah salah satu produk smartphone yang cukup populer dari Samsung adalah Samsung Galaxy A series. Ya, saat ini memang ada beberapa jenis produk smartphone Samsung Galaxy A series dan salah satu yang paling baru adalah Samsung Galaxy A51 5G.</item>
+        <item>Samsung menghadirkan Galaxy A50 dengan teknologi yang telah ditingkatkan, seperti layar tanpa batas, kamera canggih, baterai tahan lama serta penyimpanan data lebih besar untuk mendukung keseharian generasi live.</item>
+        <item>Ponsel ini hadir dengan mengusung berbagai macam fitur yang canggih, sehingga ponsel ini mampu diandalkan untuk bermultitasking. Tak hanya itu saja, ponsel ini juga kabarnya telah mengusung kemampuan tahan terhadap air dan debu dengan IP68.</item>
+        <item>Layar iPhone 11 Pro Max ini berukuran 6,5 inci secara diagonal. Dengan resolusi 2688 x 1242 piksel alias layar berkualitas Super Retina XDR (OLED), tentunya hal ini jadi iPhone pertama yang punya layar paling cerah dan tajam. Dari tingkat kecerahan mencapai 800 nit dan ketajaman layar sampa 458 ppi.</item>
+        <item>Apple iPhone Xs Max merupakan handphone HP dengan kapasitas 3174mAh dan layar 6.5" yang dilengkapi dengan kamera belakang 12 + 12MP dengan tingkat densitas piksel sebesar 458ppi dan tampilan resolusi sebesar 2688 x 1242pixels. Dengan berat sebesar 208g, handphone HP ini memiliki prosesor Hexa Core.</item>
+        <item>Apple iPhone Xr merupakan handphone HP dengan kapasitas 2942mAh dan layar 6.1" yang dilengkapi dengan kamera belakang 12MP dengan tingkat densitas piksel sebesar 326ppi dan tampilan resolusi sebesar 828 x 1792pixels. Dengan berat sebesar 194g, handphone HP ini memiliki prosesor Hexa Core. Tanggal rilis untuk Apple iPhone Xr: September 2018.</item>
+        <item>Asus ZenFone 6 datang dengan layar NanoEdge IPS LCD 6.4 inci yang memiliki resolusi 2340 x 1080 piksel alias FHD+ dan dimensi 159.1 x 75.4 x 9.2 mm. Di bagian depan ini juga tidak ada gangguan berupa notch atau poni, karena perangkat ini untuk mengakali kamera depan sudah menyediakan kamera flip.</item>
+        <item>Oppo Find X adalah smartphone pertama dengan layar panoramic super luas yang bebas dari poni (notch) dan minim bezel. Tampilan layar depannya benar-benar full screen, tanpa ada poni atau bezel yang tebal. Oppo Find X memiliki luas layar 6.4 inci dengan rasio 19.5:9 dan rasio layar 93.8%.</item>
+        <item>Vivo Z1 Pro adalah ponsel Vivo teranyar yang ditujukan untuk orang yang memiliki mobilitas tinggi namun tak meninggalkan aspek performa gaming dan fotografi. Dari segi desain, Vivo Z1 Pro memiliki bentang layar 6,53 inci dengan panel IPS yang mendukung resolusi Full HD Plus.</item>
+        <item>VIVO V19 merupakan smartphone yang mempunyai ukuran layar 6.44 inches Super AMOLED dengan resolusi 2400×1080 (FHD+). Smartphone ini juga mempunyai kamera belakang : 48MP, 8MP, 2MP, 2MP, kamera depan 32 MP.</item>
+        <item>Smartphone ini memiliki empat kamera belakang, dan disokong chipset yang sama seperti pada P30 Pro yakni Kirin 980. Sebagai smartphone yang ditargetkan untuk anak muda, nova 5T tampail dengan desain menarik. Smartphone ini memiliki desain belakang 3D hologram.</item>
+    </string-array>
+
+    <string-array name="battery">
+        <item>Non-removable 4.500 mAh \n18W fast charging.</item>
+        <item>4000mAh (typ) / 3900mAh (min) \nBaterai tidak dapat dipindahkan \nMendukung Qualcomm Quick Charge 4.</item>
+        <item>Non-removable \nLi-Po 4.000 mAh \n15W Fast Charging.</item>
+        <item>Non-removable \nLi-Po 4.000 mAh \n18W Fast Charging.</item>
+        <item>Non-removable \nLi-Po 4.500 mAh \nFast Wireless Charging 2.0.</item>
+        <item>Non-removable \nLi-Po 3.500 mAh</item>
+        <item>Non-removable \nLi-Po 3.500 mAh \nFast-charge capable: Up to 50% charge 30 minutes9.</item>
+        <item>Non-removable \nLi-Po 4.000 mAh \nBuilt-in rechargeable lithium‑ion. \nTalk time (wireless): Up to 25 hours \nInternet use: Up to 15 hours.</item>
+        <item>5000mAh high capacity battery, supports Quick Charge 4.0 \nUp to 26 days of 4G standby time \nUp to 33.3 hours 3G talk time.</item>
+        <item>3730mAh \nVOOC Flash Charge.</item>
+        <item>Non-removable Li-Po 5.000 mAh battery \n18W Dual-Engine Fast charging.</item>
+        <item>4.500 mAh \nFast battery charging 18W.</item>
+        <item>Non-removable Li-Po battery \n3750 mAh (typical value) \n3650 mAh (minimum value).</item>
+    </string-array>
+    <string name="content_specs_battery">Non-removable 4.500 mAh \n18W fast charging.</string>
+
+    <string-array name="size">
+        <item>Dimensi 161.35 x 76.4 x 8.79 mm \nBerat 199.80 g.</item>
+        <item>Dimensi 159.21 x 75.21 x 8.1 mm \nBerat 186 g.</item>
+        <item>Dimensi 158.5 x 73.6 x 7.9 mm \nBerat 172 g.</item>
+        <item>Dimensi 158.5 x 74.7 x 7.7 mm \nBerat 166 g.</item>
+        <item>Dimensi 161.9 x 73.7 x 7.8 mm \nBerat 188 g.</item>
+        <item>Dimensi 158.0 x 77.8 x 8.1 mm \nBerat 226 g.</item>
+        <item>Dimensi 77.4 x 7.7 x 157.5 mm (WxDxH) \nBerat 208 g.</item>
+        <item>Dimensi 75.7 x 150.9 x 8.3 mm (WxHXD) \nBerat 194 g.</item>
+        <item>Dimensi 159.1 x 75.44 x 8.4-9.1 mm \nBerat 190 g.</item>
+        <item>Dimensi 156.7 x 74.2 x 9.6 mm \nBerat 186 g.</item>
+        <item>Dimensi 162.39 x 77.33 x 8.85 mm \nBerat 201 g.</item>
+        <item>Dimensi 159.01 x 74.17 x 8.54 mm \nBerat 176 g.</item>
+        <item>Dimensi 154.25 x 73.97 x 7.87 mm \nBerat 174 g (including the battery).</item>
+    </string-array>
+    <string name="content_specs_size">"Dimensi 161.35 x 76.4 x 8.79 mm \nBerat 199.80 g."</string>
+
+    <string-array name="display">
+        <item>Ukuran Layar 	6.53 inches \nResolusi Layar FHD+ 2340 x 1080 pixels.</item>
+        <item>Ukuran Layar 	6.3 inches \nResolusi Layar FHD+ 2340 x 1080 pixels, 409 PPI.</item>
+        <item>Ukuran Layar 	6.5 inches \nResolusi Layar FHD+ 1080 x 2400 pixels, Super AMOLED.</item>
+        <item>Ukuran Layar 	6.4 inches (full rectangle) \n6.2" (rounded corners) \nResolusi Layar FHD+ (1080×2340) Super AMOLED.</item>
+        <item>Ukuran Layar 	6.7 inches \nResolusi Layar Dynamic AMOLED 3200 x 1440 pixels \n20:9 ratio (~525 ppi density).</item>
+        <item>2688 x 1242 (458 ppi)OLED, Super Retina XDR display.</item>
+        <item>Ukuran Layar 	6.5 inches \nResolusi Layar Super Retina HD, 2688 x 1242 pixels \nOLED Multi‑Touch.</item>
+        <item>Ukuran Layar 	6.1 inches \nResolusi Layar 1792 x 828 pixels.</item>
+        <item>Ukuran Layar 	6.4 inches \nResolusi Layar	Full HD+ 2340 x 1080.</item>
+        <item>Ukuran Layar 	6.4 inches \nResolusi Layar FHD+ 2340 x 1080 pixels \n19.5:9 ratio.</item>
+        <item>Ukuran Layar 	6.53 inches \nResolusi Layar FHD+ 2340 x 1080 pixels.</item>
+        <item>Ukuran Layar 	6.44 inches \nResolusi Layar FHD+ 2400 x 1080 pixels \nSuper AMOLED.</item>
+        <item>Ukuran Layar 	6.26 inches \nResolusi Layar FHD+ 2340 x 1080 pixels.</item>
+    </string-array>
+    <string name="content_specs_display">"Ukuran Layar 	6.53 inches \nResolusi Layar FHD+ 2340 x 1080 pixels."</string>
+
+
+    <string name="about">about</string>
+    <string name="settings">Settings</string>
+    <string name="help">Help</string>
+    <string name="spesifikasi">Spesifikasi</string>
+    <string name="Harga">Rp 3.100.000</string>
+    <string name="display">Display :</string>
+
+    <string name="size">Size :</string>
+
+    <string name="battery">Battery :</string>
+
+    <string name="search">Cari Disini</string>
+    <string name="terms_conditions">Terms | Conditions</string>
+    <string name="hak_milik">HAK MILIK</string>
+    <string name="lisensi_pengunjung">LISENSI PENGUNJUNG</string>
+    <string name="hak">Seluruh rancangan desain, gambar, artwork, audio, video serta kode pemrograman (selanjutnya disebut (konten) dalam Apps TechNews adalah hak cipta milik Kami. Anda tidak diperkenankan untuk memodifikasi, menyalin, mengubah atau menambah rancangan desain, gambar, artwork, audio, video serta kode pemrograman dalam fasilitas ini dalam keadaan atau kondisi apapun.</string>
+    <string name="NameHP">Xiaomi Redmi Note 8 Pro</string>
+    <string name="todo">TODO</string>
+    <string name="nama_hp">Nama HP</string>
+    <string name="harga_hp">Harga HP</string>
+    <string name="Deskripsi">Xiaomi telah merilis sejumlah produk baru dari lini Redmi untuk kelas menengah ke atas yakni Redmi Note 8 Pro, Redmi Note 8, dan Redmi Note 8T. Umumnya, setiap vendor memproduksi smartphone dengan spesifikasi berbeda meski memiliki nama tipe yang hampir mirip. Hal ini bertujuan untuk memberikan beragam pilihan bagi para konsumen.</string>
+    <string name="fahmi_rinaldi">Fahmi Rinaldi</string>
+    <string name="follow_me">Follow Me</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="_62_8979023149">+62 8979023149</string>
+    <string name="fahmi3012_gmail_com">Fahmi3012@gmail.com</string>
+    <string name="follow_me">Follow Me</string>
+    <string name="teknik_komputer_jaringan">TEKNIK KOMPUTER JARINGAN</string>
+    <string name="_2017_2020">2017-2020</string>
+    <string name="alamat">Kp.pisang Perum Purimas Perkasa Blok B20 RT06/06</string>
+    <string name="todo">TODO</string>
+</resources>
